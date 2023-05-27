@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rajeshbabu-oviva/shadcn-ui-lib-starter.git"
+    "url": "https://github.com/rajeshdavidbabu/shadcn-ui-lib-starter.git"
   },
   "scripts": {
     "dev": "vite",
