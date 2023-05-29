@@ -2,7 +2,7 @@
   "name": "shadcn-ui-library-starter",
   "description": "A quick library starter for React with Tailwind CSS, Vite, TypeScript and Shadcn-ui components.",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.3",
   "type": "module",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
