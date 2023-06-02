@@ -8,7 +8,9 @@ A simple starter kit to build your own shadcn-ui library using components from h
 
 ### Wanna see how this library works ?
 
-Run the example project and play around 
+Run the example project and play around
+
+The example project has the published npm package linked so you do not really have to do a local npm link.
 
 ```
 cd examples/vite-tailwind-app
